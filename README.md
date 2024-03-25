@@ -1,2 +1,9 @@
-# Spotify_Clone
-Create a music streaming app interface with Spotify's branding using HTML, CSS, and JS to enhance user experience and interactivity.
+# SpotifyReplica
+
+> It's somewhere just going to be a music player, mainly having a building theme of Spotify.
+> 
+>  Followed by a few aspects of the SIGMA WEB DEV series by CodeWithHarry.
+> 
+> Will add some more HERO sections.
+> 
+> Under Development. 
